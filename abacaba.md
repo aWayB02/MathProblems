@@ -12,5 +12,7 @@ $log_a\dfrac{u}{v} = log_au - log_av$
 --
 $log_a(b \cdot c) = log_ab + log_ac$  
 --
-$log_{a^n}b^m = \dfrac{m}{n} \cdot log_ab$
+$log_{a^n}b^m = \dfrac{m}{n} \cdot log_ab$  
+--
+$log_a\sqrt[n]b = \dfrac{1}{n} \cdot log_ab$  
 --
