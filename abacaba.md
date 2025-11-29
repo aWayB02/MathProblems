@@ -18,3 +18,5 @@ $log_a\sqrt[n]b = \dfrac{1}{n} \cdot log_ab$
 --
 $\dfrac{log_ab}{log_ac} = log_cb$
 --
+$log_{a^k}b = \dfrac{1}{k} \cdot log_ab$
+--
