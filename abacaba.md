@@ -10,5 +10,7 @@ $log_aa^b = b$
 --
 $log_a\dfrac{u}{v} = log_au - log_av$  
 --
-$log_a(b \cdot c) = log_ab + log_ac$
+$log_a(b \cdot c) = log_ab + log_ac$  
+--
+$log_{a^k}b^m = \dfrac{m}{n} \cdot log_ab$
 --
