@@ -16,3 +16,5 @@ $log_{a^n}b^m = \dfrac{m}{n} \cdot log_ab$
 --
 $log_a\sqrt[n]b = \dfrac{1}{n} \cdot log_ab$  
 --
+$\dfrac{log_ab}{log_ac} = log_cb$
+--
